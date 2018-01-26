@@ -7,5 +7,5 @@ void main()
     printf("Enter minute: ");
     scanf("%d", &min);
     printf("Time is %02d:%02d", hour, min);
-    printf("End")
+    printf("End,Thx")
 }
